@@ -6,7 +6,7 @@ This repository contains all my session notes, project files, capstone submissio
 
 The program covers Git, GitHub workflows, and software development fundamentals over 8 weeks.
 
-**Mentee:** Rosemary Boahemaa  
+**Mentee:** Rosemary Boahemaa Dwamena
 **GitHub:** Rosieeee344
 
 -----
@@ -49,3 +49,4 @@ codetopia-mentorship-program/
 |Week 1|Git Foundation — setup, init, staging, committing |
 |Week 2|Core Workflow — undo tools, revert, reset, restore|
 |Week 3|Going Remote — GitHub, push, pull, remote tracking|
+Week 3 Capstone project completed.
