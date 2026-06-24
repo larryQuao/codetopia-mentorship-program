@@ -51,3 +51,4 @@ codetopia-mentorship-program/
 |Week 3|Going Remote — GitHub, push, pull, remote tracking|
 Week 3 Capstone project completed.
 A signature from Larry
+Working haard is not eashy
