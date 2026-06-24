@@ -50,3 +50,4 @@ codetopia-mentorship-program/
 |Week 2|Core Workflow — undo tools, revert, reset, restore|
 |Week 3|Going Remote — GitHub, push, pull, remote tracking|
 Week 3 Capstone project completed.
+A signature from Larry
