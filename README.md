@@ -11,7 +11,7 @@ The program covers Git, GitHub workflows, and software development fundamentals 
 
 -----
 
-## Folder Structure
+## Folder Structure- Testing
 
 ```
 codetopia-mentorship-program/
